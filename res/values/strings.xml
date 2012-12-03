@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">exercise7</string>
+    <string name="contentDesc">contentDesc</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Tween That!</string>
+	<string name="triptween">Start Tween Animation</string>
+	<string name="tripanime">Start Frame Animation</string>
+</resources>
